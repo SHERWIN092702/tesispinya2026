@@ -1,0 +1,12 @@
+names:
+- pineapple
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pinyaapple-fuxdl
+  url: https://universe.roboflow.com/thesis-drone-technology/pinyaapple-fuxdl/dataset/13
+  version: 13
+  workspace: thesis-drone-technology
+test: ../test/images
+train: ../train/images
+val: ../valid/images
